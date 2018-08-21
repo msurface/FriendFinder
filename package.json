@@ -1,7 +1,6 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -22,5 +21,7 @@
   "bugs": {
     "url": "https://github.com/msurface/FriendFinder/issues"
   },
-  "homepage": "https://github.com/msurface/FriendFinder#readme"
+  "homepage": "https://github.com/msurface/FriendFinder#readme",
+  "keywords": [],
+  "description": ""
 }
